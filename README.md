@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @duchuydv
+- 👋 Hi, I’m Đoàn Đức Huy
 - 👀 I’m interested in Data Analysis, Software Development, Web Development. 
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript.
 - 💞️ I’m looking to collaborate on other content github.
